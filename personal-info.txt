@@ -1,0 +1,7 @@
+Name:     Jhay ann gaufo
+Gender:   female
+Age:.     20
+Birthday: March 11 2001
+Address:  San Antonio sta Magdalena sorsogon
+Status:   Single
+Religion: Catholic
